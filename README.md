@@ -6,6 +6,9 @@
 ![](screenshot_3.png)
 ![](screenshot_2.png)
 
+# About 
+
+EthGlobal HackMoney 2021 - A 3 weeks long hackathon focuses on DeFi and team up with other four attendees to build a decentralised Medium alternative utilising protocols, e.g. The Graph, Superfluid and Rarible Protocol
 
 ## Quick start
 
